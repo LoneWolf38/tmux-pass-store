@@ -1,6 +1,12 @@
 # tmux-password-store
 
 
+
+https://github.com/LoneWolf38/tmux-pass-store/assets/20820036/03a25e6d-bc91-4727-a0ef-fd916565e332
+
+
+
+
 ## PassStore - A Tmux Plugin for Password Selector
 
 ## PreRequisties
