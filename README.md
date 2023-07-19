@@ -24,7 +24,7 @@ https://github.com/LoneWolf38/tmux-pass-store/assets/20820036/03a25e6d-bc91-4727
 Add the following line to your tmux.conf file:
 
 ```sh 
-set -g @plugin 'LoneWolf38/tmux-password-manager'
+set -g @plugin 'LoneWolf38/tmux-pass-store'
 ```
 
 **NOTE:** tpm recommends you list your plugins and then run tpm at the very bottom of your `tmux.conf`.
