@@ -1,4 +1,4 @@
-# tmux-password-store
+# tmux-pass-store
 
 
 
